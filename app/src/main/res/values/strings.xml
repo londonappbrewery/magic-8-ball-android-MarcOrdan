@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Magic Eight Ball</string>
+    <string name="app_name">AA</string>
+    <string name="appHeader">"Can't Decide? Tap me!"</string>
 </resources>
